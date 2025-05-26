@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>My DIY Blog</title>
+    <link>https://yourdomain.com/</link>
+    <description>A personal blog built without WordPress.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 May 2024 10:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>How I Built a Blog Without WordPress XML</title>
+      <link>https://yourdomain.com/blog/build-blog-without-wordpress-xml</link>
+      <description><![CDATA[
+        <p>In this post, I explain how I migrated my blog without using a WordPress XML export. Instead, I used GitHub and Markdown to create a lightweight static blog.</p>
+        <h2>What I Used</h2>
+        <ul>
+          <li>GitHub Pages for hosting</li>
+          <li>Markdown files for content</li>
+          <li>Jekyll to generate the static site</li>
+        </ul>
+        <p>This approach gave me full control, no database overhead, and a cleaner writing workflow.</p>
+        <p><a href="https://yourdomain.com/blog/build-blog-without-wordpress-xml">Read the full article here</a>.</p>
+      ]]></description>
+      <pubDate>Mon, 27 May 2024 10:00:00 GMT</pubDate>
+      <guid>https://yourdomain.com/blog/build-blog-without-wordpress-xml</guid>
+    </item>
+
+  </channel>
+</rss>
