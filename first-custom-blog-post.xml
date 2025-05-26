@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:atom="http://www.w3.org/2005/Atom">
@@ -10,25 +10,90 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 27 May 2024 10:00:00 GMT</lastBuildDate>
 
+    <!-- Start of podcast item entry -->
     <item>
-      <title>How I Built a Blog Without WordPress XML</title>
-      <link>https://yourdomain.com/blog/build-blog-without-wordpress-xml</link>
-      <description><![CDATA[
-        A quick summary of how I created a blog without using WordPress XML export.
-      ]]></description>
-      <content:encoded><![CDATA[
-        <p>In this post, I explain how I migrated my blog without using a WordPress XML export. Instead, I used GitHub and Markdown to create a lightweight static blog.</p>
-        <h2>What I Used</h2>
-        <ul>
-          <li>GitHub Pages for hosting</li>
-          <li>Markdown files for content</li>
-          <li>Jekyll to generate the static site</li>
-        </ul>
-        <p>This approach gave me full control, no database overhead, and a cleaner writing workflow.</p>
-      ]]></content:encoded>
-      <pubDate>Mon, 27 May 2024 10:00:00 GMT</pubDate>
-      <guid>https://yourdomain.com/blog/build-blog-without-wordpress-xml</guid>
-    </item>
 
+    <!-- Title of the episode -->
+    <title>Episode Twelve: 100 Years of Pierce, Part 1: The Left Panel, with Martin Guggenheim, Angela Burton, and Josh Gupta-Kagan</title>
+    
+    <!-- Direct link to the episode page on the Parental Rights Foundation website -->
+    <link>https://parentalrightsfoundation.org/episode-twelve-100-years-of-pierce-part-1-the-left-panel-with-martin-guggenheim-angela-burton-and-josh-gupta-kagan/</link>
+    
+    <!-- Creator/Publisher of the content -->
+    <dc:creator><![CDATA[Parental Rights Foundation]]></dc:creator>
+    
+    <!-- Publication date of the episode -->
+    <pubDate>Tue, 13 May 2025 15:39:53 +0000</pubDate>
+
+    <!-- Tags/categories to classify the content -->
+    <category><![CDATA[Reports]]></category>
+    <category><![CDATA[Updates]]></category>
+    <category><![CDATA[EPPiC podcast]]></category>
+    <category><![CDATA[parental rights]]></category>
+    
+    <!-- Unique identifier for the item (not necessarily a permalink) -->
+    <guid isPermaLink="false">https://parentalrightsfoundation.org/?p=6742</guid>
+
+    <!-- Short description that appears in feeds or summaries -->
+    <description><![CDATA[
+        <p>Brief intro summarizing the purpose of the episode and its panel of guests.</p>
+        <p>Includes a link back to the full post.</p>
+    ]]></description>
+
+    <!-- Full HTML content of the episode page, including text, images, links, and embedded podcast player -->
+    <content:encoded><![CDATA[
+        <div class="fl-builder-content" data-post-id="6742">
+
+        <!-- Featured image/banner for the episode -->
+        <div class="fl-photo fl-photo-align-center">
+            <img 
+            src="https://parentalrightsfoundation.org/wp-content/uploads/2025/05/100-Years-of-Pierce-LC.png"
+            alt="100 Years of Pierce LC"
+            title="100 Years of Pierce LC"
+            width="1398" height="699"
+            srcset="...responsive image sources..."
+            sizes="(max-width: 1398px) 100vw, 1398px"
+            />
+        </div>
+
+        <!-- Main episode content section -->
+        <div class="fl-rich-text">
+            <p>
+            Context for the episode – celebrating the 100th anniversary of the Supreme Court's 
+            Pierce v. Society of Sisters decision.
+            </p>
+            <p>
+            Introduction of guests: Guggenheim, Burton, and Gupta-Kagan, who are experts in 
+            family defense and child welfare.
+            </p>
+            <p>
+            Reference to a relevant book discussed during the episode with a purchase link.
+            </p>
+            <p>
+            Info about the host, Michael Ramey, and how to subscribe to email updates.
+            </p>
+        </div>
+
+        <!-- Embedded audio player for the podcast episode (Buzzsprout) -->
+        <div class="fl-html">
+            <div id="buzzsprout-player-17146486"></div>
+            <script 
+            src="https://www.buzzsprout.com/799535/episodes/17146486-episode-twelve-100-years-of-pierce-part-1...js"
+            type="text/javascript"
+            charset="utf-8">
+            </script>
+        </div>
+
+        </div>
+
+        <!-- Footer attribution that appears in feeds -->
+        <p>
+        The post <a href="...">Episode Twelve...</a> appeared first on 
+        <a href="https://parentalrightsfoundation.org">Parental Rights Foundation</a>.
+        </p>
+    ]]></content:encoded>
+
+    </item>
+    <!-- End of podcast item entry -->
   </channel>
 </rss>
