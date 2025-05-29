@@ -1,5 +1,6 @@
 <rss version="2.0"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>My DIY Blog</title>
     <link>https://yourdomain.com/</link>
@@ -9,77 +10,56 @@
 
     <!-- Start of podcast item entry -->
     <item>
+      <title>Episode Twelve: 100 Years of Pierce, Part 1: The Left Panel, with Martin Guggenheim, Angela Burton, and Josh Gupta-Kagan</title>
+      <link>https://yourdomain.com/episode-twelve-100-years-of-pierce-part-1-the-left-panel-with-martin-guggenheim-angela-burton-and-josh-gupta-kagan/</link>
+      <pubDate>Tue, 13 May 2025 15:39:53 +0000</pubDate>
+      
+      <category><![CDATA[Reports]]></category>
+      <category><![CDATA[Updates]]></category>
+      <category><![CDATA[EPPiC podcast]]></category>
+      <category><![CDATA[parental rights]]></category>
+      
+      <guid isPermaLink="false">https://yourdomain.com/?p=6742</guid>
 
-    <!-- Title of the episode -->
-    <title>Episode Twelve: 100 Years of Pierce, Part 1: The Left Panel, with Martin Guggenheim, Angela Burton, and Josh Gupta-Kagan</title>
-    
-    <!-- Direct link to the episode page on the Parental Rights Foundation website -->
-    <link>https://yourdomain.com//episode-twelve-100-years-of-pierce-part-1-the-left-panel-with-martin-guggenheim-angela-burton-and-josh-gupta-kagan/</link>
-    
-    <!-- Publication date of the episode -->
-    <pubDate>Tue, 13 May 2025 15:39:53 +0000</pubDate>
-
-    <!-- Tags/categories to classify the content -->
-    <category><![CDATA[Reports]]></category>
-    <category><![CDATA[Updates]]></category>
-    <category><![CDATA[EPPiC podcast]]></category>
-    <category><![CDATA[parental rights]]></category>
-    
-    <!-- Unique identifier for the item (not necessarily a permalink) -->
-    <guid isPermaLink="false">https://yourdomain.com/?p=6742</guid>
-
-    <!-- Full HTML content of the episode page, including text, images, links, and embedded podcast player -->
-    <content:encoded><![CDATA[
+      <content:encoded><![CDATA[
         <div data-rss-type="text">
-         <h3><span>Test Title H3</span></h3>
-       </div>
-       <div class="gallery-image" data-rss-type="image">
-         <img src="https://images.unsplash.com/photo-1579353977828-2a4eab540b9a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
-       </div>
-     <div data-rss-type="text">
-         <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mollis tincidunt sem eu malesuada. Nulla pellentesque lobortis lacinia. Aenean viverra tortor sed porta hendrerit. Quisque mattis auctor mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent dictum tincidunt elit sit amet sagittis. Integer facilisis tempor lorem, sit amet pretium ipsum.</span></p>
-         <p><span><br/></span></p>
-         <p><span>In hac habitasse platea dictumst. Aenean vestibulum a justo euismod tempus. Donec nunc purus, facilisis in urna id, semper pretium metus. Donec laoreet ipsum ut aliquet malesuada. Etiam ultrices est id sapien tempor malesuada. Phasellus vitae risus tellus. Nam est erat, pellentesque non sapien et, maximus congue dui. Sed erat lectus, suscipit nec ultricies ac, tempus id enim. Integer leo nulla, sodales euismod enim accumsan, convallis convallis tortor. Nunc elit erat, pharetra non blandit at, pharetra a arcu. Nulla faucibus odio nec metus condimentum, vel maximus felis sagittis.</span></p>
-         <p><span><br/></span></p>
-         	<ul>
-	      <li>
-	        <span>Bullet Point</span>
-	        <span>This is the test description for bullet point</span>
-	      </li>
-           <li>
-	        <span>Bullet Point</span>
-	        <span>This is the test description for bullet point</span>
-	      </li>
-	     </ul>
-         <p><span><br/></span></p>
-         	<ol>
-	      <li>
-	        <span>Number</span>
-	        <span>This is the test description for number</span>
-	      </li>
-           <li>
-	        <span>Number</span>
-	        <span>This is the test description for number</span>
-	      </li>
-	     </ol>
-    </div>
-    ]]></content:encoded>
-         <enclosure 
+          <h3><span>Test Title H3</span></h3>
+        </div>
+        <div class="gallery-image" data-rss-type="image">
+          <img src="https://images.unsplash.com/photo-1579353977828-2a4eab540b9a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+        </div>
+        <div data-rss-type="text">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mollis tincidunt sem eu malesuada. Nulla pellentesque lobortis lacinia...</p>
+          <p>In hac habitasse platea dictumst. Aenean vestibulum a justo euismod tempus...</p>
+          <ul>
+            <li><strong>Bullet Point:</strong> This is the test description for bullet point</li>
+            <li><strong>Bullet Point:</strong> This is the test description for bullet point</li>
+          </ul>
+          <ol>
+            <li><strong>Number:</strong> This is the test description for number</li>
+            <li><strong>Number:</strong> This is the test description for number</li>
+          </ol>
+        </div>
+      ]]></content:encoded>
+
+      <enclosure 
         url="https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg" 
         length="237837" 
         type="image/jpeg"/>
-     <media:content 
+      
+      <media:content 
         medium="image" 
         url="https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg">
-        <media:description>thumbnail</media:description>
+        <media:description>Thumbnail</media:description>
       </media:content>
 
       <media:content 
         medium="image" 
         url="https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg">
-        <media:description>main image</media:description>
+        <media:description>Main Image</media:description>
       </media:content>
     </item>
     <!-- End of podcast item entry -->
+
   </channel>
 </rss>
