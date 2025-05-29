@@ -28,9 +28,6 @@
     <!-- Unique identifier for the item (not necessarily a permalink) -->
     <guid isPermaLink="false">https://yourdomain.com/?p=6742</guid>
 
-    <!-- Short description that appears in feeds or summaries -->
-    </description>
-
     <!-- Full HTML content of the episode page, including text, images, links, and embedded podcast player -->
     <content:encoded><![CDATA[
         <div data-rss-type="text">
