@@ -28,45 +28,54 @@
         <div data-rss-type="text">
           <h3>Test Title H3</h3>
         </div>
-       <div class="graphicWidget graphicWidgetV2 graphicWidgetV3" editablewidget="true" dmle_widget="graphic" data-element-type="graphic" data-widget-type="graphic" id="1295695661">
-        <svg class="svg" version="1.1" viewbox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" id="1690762629">
-         <path d="M16 29.714q-0.464 0-0.786-0.321l-11.143-10.75q-0.179-0.143-0.491-0.464t-0.991-1.17-1.214-1.741-0.955-2.161-0.42-2.464q0-3.929 2.268-6.143t6.268-2.214q1.107 0 2.259 0.384t2.143 1.036 1.705 1.223 1.357 1.214q0.643-0.643 1.357-1.214t1.705-1.223 2.143-1.036 2.259-0.384q4 0 6.268 2.214t2.268 6.143q0 3.946-4.089 8.036l-11.125 10.714q-0.321 0.321-0.786 0.321z">
-         </path>
-        </svg>
-       </div>
-       <div class="dmPhotoGallery newPhotoGallery dmPhotoGalleryResp" galleryoptionsparams="{thumbnailsPerRow: 3, rowsToShow: 3, imageScaleMethod: true}" data-desktop-layout="square" data-desktop-columns="1" dmle_widget="dudaPhotoGalleryId" data-element-type="dPhotoGalleryId" data-desktop-text-layout="over" id="1549147276" data-rows-to-show="100">
-      <ul class="dmPhotoGalleryHolder clearfix gallery shadowEffectToChildren gallery4inArow" id="1450469458" dmle_original_id="1450469458" dont_set_id="true">
-       <li index="0" class="photoGalleryThumbs" id="1370551620">
-        <div class="image-container" id="1900234766">
-         <a data-dm-multisize-attr="href" data-image-url="https://dp-cdn.multiscreensite.com/d_gallery/firstImages/plam-tree-leafs-closeup.jpg" id="1137284537">
-          <img data-src="https://dp-cdn.multiscreensite.com/d_gallery/firstImages/plam-tree-leafs-closeup.jpg" irh="1" irw="2" alt="" id="1591597249"/>
-         </a>
-        </div>
-        <div class="caption-container " id="1285484517">
-         <span class="caption-inner" id="1008969666">
-          <h3 class="caption-title" id="1360439197">
-           Nature's Symphony
-          </h3>
-          <div class="caption-text" id="1662005320">
-           Breathtaking colors of our planet
-          </div>
-          <a class="caption-button dmWidget displayNone  clearfix" href="" id="1072833984">
-           <span class="iconBg" dmle_generated="true" id="1754166220">
-            <span class="icon hasFontIcon icon-star" dmle_dont_remove="true" dmle_generated="true" id="1850943346">
-            </span>
-           </span>
-           <span class="text" id="1347064694">
-            Button
-           </span>
-          </a>
-         </span>
-        </div>
-       </li>
-      </ul>
-      <div class="photoGalleryViewAll link" isall="true" data-viewall="View more" data-viewless="View less" style="display:none;" id="1149930280">
-      </div>
-     </div>
-      ]]></content:encoded>
+      <svg class="svg" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" id="1690762629">
+   <path d="M16 29.714q-0.464 0-0.786-0.321l-11.143-10.75q-0.179-0.143-0.491-0.464t-0.991-1.17-1.214-1.741-0.955-2.161-0.42-2.464q0-3.929 2.268-6.143t6.268-2.214q1.107 0 2.259 0.384t2.143 1.036 1.705 1.223 1.357 1.214q0.643-0.643 1.357-1.214t1.705-1.223 2.143-1.036 2.259-0.384q4 0 6.268 2.214t2.268 6.143q0 3.946-4.089 8.036l-11.125 10.714q-0.321 0.321-0.786 0.321z">
+   </path>
+  </svg>
+<a data-dm-multisize-attr="href" data-image-url="https://irt-cdn.multiscreensite.com/33135b9114ab4c188c94db295a42ffae/dms3rep/multi/plam-tree-leafs-closeup.jpg" id="1137284537">
+       <img data-src="https://irt-cdn.multiscreensite.com/33135b9114ab4c188c94db295a42ffae/dms3rep/multi/plam-tree-leafs-closeup.jpg" irh="1" irw="2" alt="" id="1591597249">
+      </a>
+<img data-src="https://irt-cdn.multiscreensite.com/33135b9114ab4c188c94db295a42ffae/dms3rep/multi/plam-tree-leafs-closeup.jpg" irh="1" irw="2" alt="" id="1591597249">+
+     iframe id="1775058447" src="https://www.youtube.com/embed/E8lXC2mR6-k" frameborder="0" allowfullscreen="">
+  </iframe>
+           <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+  <tr>
+    <td>Ernst Handel</td>
+    <td>Roland Mendel</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>Island Trading</td>
+    <td>Helen Bennett</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Laughing Bacchus Winecellars</td>
+    <td>Yoshi Tannamuri</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>
+</table>
+           ]]></content:encoded>
 
       <enclosure 
         url="https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg" 
