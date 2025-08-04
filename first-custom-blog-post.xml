@@ -1,98 +1,347 @@
-<rss version="2.0"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     xmlns:media="http://search.yahoo.com/mrss/"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
   <channel>
-    <title>My DIY Blog</title>
-    <link>https://yourdomain.com/</link>
-    <atom:link href="https://yourdomain.com/rss.xml" rel="self" type="application/rss+xml" />
-    <description>A personal blog built without WordPress.</description>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 27 May 2024 10:00:00 GMT</lastBuildDate>
-
+    <title>AEG Foundation</title>
+    <link>https://aegfoundation.org/</link>
+    <description></description>
     <item>
-      <title>Episode Twelve: 100 Years of Pierce, Part 1: The Left Panel, with Martin Guggenheim, Angela Burton, and Josh Gupta-Kagan</title>
-      <link>https://yourdomain.com/episode-twelve-100-years-of-pierce-part-1-the-left-panel-with-martin-guggenheim-angela-burton-and-josh-gupta-kagan/</link>
-      <pubDate>Tue, 13 May 2025 15:39:53 +0000</pubDate>
-      
-      <category><![CDATA[Reports]]></category>
-      <category><![CDATA[Updates]]></category>
-      <category><![CDATA[EPPiC podcast]]></category>
-      <category><![CDATA[parental rights]]></category>
+      <title>Going Off Map: The Adventure of Discovery at Geology Field Camp!</title>
+      <link>https://aegfoundation.org/going-off-map-the-adventure-of-discovery-at-geology-field-camp/</link>
+      <description><![CDATA[<p>By Isaac E. Pope</p>
 
-      <guid isPermaLink="false">https://yourdomain.com/?p=6742</guid>
 
-      <description><![CDATA[Summary of the episode discussing 100 Years of Pierce.]]></description>
 
-      <content:encoded><![CDATA[
-        <div data-rss-type="text">
-          <h3>Test Title H3</h3>
-        </div>
-      <svg class="svg" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" id="1690762629">
-   <path d="M16 29.714q-0.464 0-0.786-0.321l-11.143-10.75q-0.179-0.143-0.491-0.464t-0.991-1.17-1.214-1.741-0.955-2.161-0.42-2.464q0-3.929 2.268-6.143t6.268-2.214q1.107 0 2.259 0.384t2.143 1.036 1.705 1.223 1.357 1.214q0.643-0.643 1.357-1.214t1.705-1.223 2.143-1.036 2.259-0.384q4 0 6.268 2.214t2.268 6.143q0 3.946-4.089 8.036l-11.125 10.714q-0.321 0.321-0.786 0.321z">
-   </path>
-  </svg>
-<a data-dm-multisize-attr="href" data-image-url="https://irt-cdn.multiscreensite.com/33135b9114ab4c188c94db295a42ffae/dms3rep/multi/plam-tree-leafs-closeup.jpg" id="1137284537">
-       <img data-src="https://irt-cdn.multiscreensite.com/33135b9114ab4c188c94db295a42ffae/dms3rep/multi/plam-tree-leafs-closeup.jpg" irh="1" irw="2" alt="" id="1591597249">
-      </a>
-<img data-src="https://irt-cdn.multiscreensite.com/33135b9114ab4c188c94db295a42ffae/dms3rep/multi/plam-tree-leafs-closeup.jpg" irh="1" irw="2" alt="" id="1591597249">+
-     iframe id="1775058447" src="https://www.youtube.com/embed/E8lXC2mR6-k" frameborder="0" allowfullscreen="">
-  </iframe>
-           <table>
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-  <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
-  </tr>
-</table>
-           ]]></content:encoded>
+<p>At the core of every scientist and engineer is an explorer and investigator with some deeply imbedded personality to seek out what is unknown or unfixed and create some new conceptualization or contraption out of it. They spend years honing their craft, learning the int]]></description>
+      <content><![CDATA[<p>By Isaac E. Pope</p>
 
-      <enclosure 
-        url="https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg" 
-        length="237837" 
-        type="image/jpeg"/>
-      
-      <media:content 
-        medium="image" 
-        url="https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg">
-        <media:description>Thumbnail</media:description>
-      </media:content>
 
-      <media:content 
-        medium="image" 
-        url="https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg">
-        <media:description>Main Image</media:description>
-      </media:content>
+
+<p>At the core of every scientist and engineer is an explorer and investigator with some deeply imbedded personality to seek out what is unknown or unfixed and create some new conceptualization or contraption out of it. They spend years honing their craft, learning the intricate ways of their field. At some point or other, however, it comes time to leave the books behind and discover their field firsthand. In the life of a geologist, that time comes in the form of field camp, the opportunity to head off the maps of well tread territory to test their skills in the real world. For me, that occasion arrived this summer at the Colorado School of Mines in the form of a five-week adventure mapping geologic features across Colorado, Utah, and New Mexico.</p>
+
+
+
+<p>The adventure began in the wind-swept world of Arches National Park (figures 1 and 2). What many people do not realize about this place is that, overlooking its dry climate, this portion of Utah holds an uncanny number of similarities to the Gulf of Mexico. Although many people will picture the majestic spires and natural arches in the area, what hides far beneath the surface is a vast deposit of salt, and this salt is on the move (Trudgill et al., 2004). These salt deposits act a little like an air mattress after a long night of losing air – put your own weight disproportionately onto the mattress and before you know it you have sunk and the mattress is bulging all around you! In a similar manner, the salt is deeply buried beneath kilometers of sediment but, due to differential loading, the salt will deform in a ductile manner and gradually bulge in places. The sediments above these bulges of salt will then form these intricate systems of normal faults called relay ramps. It is in these environments that oil can be trapped, similar to the salt structures in the Gulf of Mexico which help trap oil so famously.</p>
+
+
+
+<p>Like sages wandering the desert, we searched for clues. From our week of mapping, it became impressed upon us the importance of firsthand experience. We saw time and time again how it could be the smallest detail that could affect how complicated a model could be of oil migration. If you want to capture the real world in a computer model, after all, you have to get to know a slice of the real world firsthand. Sometimes those details come in unexpected ways; it may simply be centimeter-scale bedforms funneling fluid away from your expected target, or it could be that the surface features you see around you are formed not from the battling of distant plate margins but by the gradual movement or salt many kilometers beneath your feet.</p>
+
+
+
+<p>Of course, all good things must come to an end, but for us the journey was just beginning! For our second week, we migrated south to Sipapu in northern New Mexico to map the metamorphics in the Picuris Mountains (Bauer, 2004). There we saw the folding of metasedimentary units that made such twists and turns that looked as if they were made by a master of crafting (figure 3). As we mapped the many folds in the area, it began to dawn on us that perhaps mathematics does debut even in field geology. Much like fractals, folds on a sub-meter scale matched the morphology of those on tens of meters and, as our stereonets came together, matched even those on the tens of <em>kilometers!</em> Of course, as a scientists you are supposed to look at everything with a critical eye, but there are some days where we can have the joy of realizing just how well these textbook trends can work in the real world.</p>
+
+
+
+<p>Structure was the order of week three as we headed deeper into New Mexico (figure 4). With the normal fault bound Sandia Mountains rising across the distant horizon, we studied the intricate tectonics north of Albuquerque where phases of both compression and extension had been overprinted time and again (Hart and Cooper, 2021). Our skills were further put to the test as we worked to unravel this tangle of threads of one long yet intricate story into Week 4 where, instead of unraveling the threads of tectonic regimes, we investigate the repeated advancement and recession of glaciers in southwest Colorado near Durango (figure 5). This week brought a fresh perspective of the uses of geologic mapping as we catalogued glacial deposits and assessed their value for aggregate mining in proposed construction projects. For many this offered a unique look at potential careers in geologic mapping. Even so, for someone who had many raised in a landscape of volcanoes, floods, and fire, the best was yet to come.</p>
+
+
+
+<p>&nbsp;For the final week, the class split as some ventured off to mining exploration, while for myself and others we were bound to mapping the geologic hazards of Silverton high in the Colorado Rocky Mountains (figure 6). After focusing so long on the record of events that happened long ago, it was now time for our eyes to be opened to events that were unfolding before us in the present day. Debris flows, avalanches, acid mine drainage, where not to invest in real estate (alright, not quite but the implications are there!) and more were the practical applications as we put to use our understanding of geologic hazards to their interfacing with society.</p>
+
+
+
+<p>When it was all said and done, we left field camp with far more than we had started. Those of us that went in as apprentices found ourselves coming out as novel masters ready to enhance and apply newfound skills. Everything we had learned in the classroom up to that point was put to the test, proving both the value and the limitations. It was empowering to leave, no longer simply students rummaging about in the dark, but as newly minted geologists equipped with the skills. I will be forever grateful for the legends who taught it and resources like the Beardsley-Kuper Geology Field Camp Scholarship for this opportunity of a lifetime.</p>
+
+
+
+
+
+
+
+
+
+
+
+<p><strong>References</strong></p>
+
+
+
+<p>Bauer, P.W., 2004, Proterozoic rocks of the Pilar Cliffs, Picuris Mountains, New Mexico, in Brister, B., Bauer, P.W., Read, A.S., Lueth, V.W., [eds.], Geology of the Taos Region, New Mexico Geological Society 55th Annual Fall Field Conference Guidebook, 440 p. doi: 10.56577/FFC-55.</p>
+
+
+
+<p>Hart, B.S. and Cooper, S., 2021, Mechanical stratigraphy in Mesozoic rocks of the San Juan Basin: Integration of stratigraphic and structural terms and concepts, The Mountain Geologist, vol. 58, no. 2, doi: 10.31582/rmag.mg.58.2.159.</p>
+
+
+
+<p>Trudgill, B.D., Banbury, N., Underhill, J., and Post, P.J., 2004, Salt evolution as a control on structural and stratigraphic systems: Northern Paradox foreland basin, southeast Utah, USA, in Post, P.J., Olson, D.L., Lyons, K.T., Palmes, S.L., Harrison, P.F., and Rosen, N.C., eds., Salt-Sediment Interactions and Hydrocarbon Prospectivity Concepts, Applications and Case Studies for the 21st Century: Gulf Coast Section SEPM (Society for Sedimentary Geology), Houston, Texas, December 5–8, Annual Bob F. Perkins Research Conference : SEPM (Society for Sedimentary Geology), v. 24, p. 669–700, doi.org: 10.5724/gcs.04.24.0669.</p>]]></content>
+      <seo:title></seo:title>
+      <seo:description></seo:description>
+    </item>
+    <item>
+      <title>Field Camp: A Rocking Way to End a Geology Degree</title>
+      <link>https://aegfoundation.org/field-camp-a-rocking-way-to-end-a-geology-degree/</link>
+      <description><![CDATA[<p>By Aleigha Dollens, University of Missouri- Kansas City</p>
+
+
+
+<p>As a geology student at the end of her bachelor’s degree, I had heard the rumors and the great stories about field camp and all that it includes. It was an experience that I had looked forward to throughout my undergraduate degree.]]></description>
+      <content><![CDATA[<p>By Aleigha Dollens, University of Missouri- Kansas City</p>
+
+
+
+<p>As a geology student at the end of her bachelor’s degree, I had heard the rumors and the great stories about field camp and all that it includes. It was an experience that I had looked forward to throughout my undergraduate degree. I felt nervous and excited as I packed my bags with my favorite field gear and prepared to jump into the back of the big red Illinois State University Geology vans at a roadside stop in northern Missouri. As I hopped into vans with 20 strangers, I began to rethink my decisions entirely. I nervously began to question if missing five weeks of the summer to spend it hiking and mapping Wyoming with a bunch of students was worth it. Nonetheless, there I was in the back of a van introducing myself to a group of strangers, headed down the interstate to Wyoming, and nervous enough to be shaking in my field boots.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The first week of ISU field camp might’ve been one of the most humbling weeks of my undergraduate degree. We were hiking the Bighorn Mountains with professors who seemed to know much more about the region than I thought possible. I was still learning the names of the new students that I shared 24 hours of my time with, and trying to decide if the outcrop I was staring at was a packstone or a wackestone (it depends on who you ask, by the way). I was working late into the evening on stratigraphic sections and waking up at 5:30AM to put my boots on and get back into the field in the morning. I felt like all the studying I spent on my degree could never have prepared me for something as extreme as this. I even had previous field experience under my belt, but still felt like I could not keep up with field camp. I thought that the first project was one of the most difficult projects that I have worked on, even after working on stratigraphic projects in the past. Despite my doubts, there was no way that I worked so hard for a degree that I love to give up because it was tough.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As time went on and we got into our next couple projects, my confidence in my abilities grew. I began to believe in my ability to adapt, work with strangers in the field, and put my trust in professors that I had never worked with before. The field partners that I would be assigned to would start the project as a stranger to me and would end the project as a close friend. I began to understand how contact mapping and geologic structures appeared in the field. I also learned that geology is a mess that can always do something that you don’t expect. I began to look forward to the 6am black coffee, the drive out to the field sites, and the long days spent with my field partners.</p>
+
+
+
+<p>A couple projects, a 5-gallon bucket of samples, and a mountain sunburn later, I found myself nearing the end of the five weeks of field camp. Long field days were now followed by dinner and sitting around a campfire with 20 friends who all knew how to tell a geology joke. I still worked late into the evening on my projects, but instead of working alone in my room, I would be sitting at tables with others laughing about the adventures of the day. I felt at home with the strangers and projects that I felt so nervous about at the beginning of camp. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<p>Just like that, I was packing my field clothes and my new rock collection into the back of the big red vans, ready to head back home. Leaving with memories and a new confidence in my ability to be a geoscientist. I had started the first week thinking that field camp might last forever, and then it was over. Which by the end of camp, was something that I was sad about. The other students at camp are some of the most kind and bright geoscientists that I have had the honor to work with and get to know. I am so excited to see where their careers head and to catch up with them at future GSA and AEG meetings.</p>
+
+
+
+<p>While reflecting on the experience, I truly believe that ISU has one of the finest geology field camps in the country. Dr. David Malone is not only an incredible geologist, but a phenomenal mentor to the students that he teaches. It is an honor to be a part of the 800+ students that he has led in the field. This camp challenged me and taught me more than any textbook ever could. It taught me to believe in myself and my abilities to be a scientist. It also taught me to work with others and to keep going up the mountain, even when things get tough. I have never had an experience teach me so much in such little time, about myself and academically. Attending field camp was the final connection needed to fully understand the courses that I had taken in my undergraduate degree and helped me feel prepared to take on the professional geology world. I will forever be grateful to the other students and the professors that were in attendance. I also look forward to getting to tell the stories of field camp to geology students who have yet to experience camp. I hope that every student has a field experience that was as incredible as mine. ISU Field Camp 2024 will forever be one of my favorite memories. Thank you to everyone who has supported my journey, both in and out of the field. Up the mountain!</p>]]></content>
+      <seo:title></seo:title>
+      <seo:description></seo:description>
+    </item>
+    <item>
+      <title>Julia Rudlaff Field Camp – 2024 Beardsley Kuper Field Camp Scholarship Winner</title>
+      <link>https://aegfoundation.org/julia-rudlaff-field-camp-2024-beardsley-kuper-field-camp-scholarship-winner/</link>
+      <description><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My field camp experience was challenging, educational, and a whole lot of fun. I spent six weeks exploring the Tobacco Root Mountains in Cardwell, Montana amidst the cacti, lodgepole pines, and many, many cows. I feel lucky to hav]]></description>
+      <content><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My field camp experience was challenging, educational, and a whole lot of fun. I spent six weeks exploring the Tobacco Root Mountains in Cardwell, Montana amidst the cacti, lodgepole pines, and many, many cows. I feel lucky to have been able to see such beautiful parts of the country, from Badlands National Park to Yellowstone to Glacier, from the mountain in the field station’s backyard (Brownback) to the tallest peak in the range (Hollow Top), from the gullies full of Mountain Mahogany to the tallest Madison Group ridges, I was immersed in the regional geology, topography, and landscapes of southwest Montana.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One of my favorite aspects of field camp was learning the entire stratigraphic section for the Tobacco Root Mountains, from the Archean crystalline basement through Quaternary unconsolidated sediments. I felt a comforting familiarity by the end of the course – if someone pointed to an outcrop in southwest Montana and asked me what it was, I would likely have an answer. And not just a formation identification, I would be able to describe its relative age, the depositional environment it represents, and several identifying features of its lithology. Knowing the rocks made me feel at home in Montana, like I had been there for years and understood a unique aspect of its history.</p>
+
+
+
+<p>My time at field camp was packed with work: long field days, exams, and challenging mapping projects, but also great fun and leisure. I met amazing friends, and we often went on long walks down the road in the evening, talking about the days geology, appreciating the beautiful scenery, and conversing with the cows. The recreation was a necessary contrast to the tough days in the field. From independent exams to week-long mapping projects and pop quizzes, we all worked tirelessly to improve our field geology skills. At times, it felt like the hills never flattened, the work never receded, and the challenges were insurmountable. But, by the end of each project, exam, and quiz, I felt satisfied with my work and more confident in my abilities for the next one. I improved my score with each project, and saw in real time how quickly my field geology skills developed. In the beginning of field camp, I struggled to accurately locate myself on a topographic map, my Brunton skills were rusty, and I knew nothing about the geologic history of the Rocky Mountains, but by the end of the course, I traversed our final mapping area with confidence in my navigational skills, my ability to identify different rock units, and my understanding of how various structural forces interact and disrupt stratigraphic order.</p>
+
+
+
+<p>In the middle of field camp, I spent a week in the Sawtooth Mountain range for the sedimentary geology concentration. There, we created a measured section for the Jefferson Formation and learned what professional field geology trips can look like. I admired stromatoporoid reefs, learned more about carbonate depositional environments, and spent evenings content by the campfire. My professor talked of a geologist who spent his entire career mapping the Sawtooth mountain range on horseback. I suppose if I ever had a “dream job,” that might be it, though I’d prefer to go about it on foot, traversing the mountains with little more than a backpack full of food, a rock hammer, and a Brunton. There is something very special about learning the geology of a region and being able to go out and map an area based on that knowledge, and it is something I would certainty love to continue doing in the future.</p>
+
+
+
+<p>Aside from all the geology skills I learned while at field camp, perhaps the most personally impactful experience was visiting the Berkley Pit and the Granite Mountain Memorial in Butte, Montana. The Berkely Pit was an open-pit copper mine that is now one of the largest superfund sites in the nation. The Granite Mountain Memorial sits above it, overlooking the open pit, and pays tribute to the 168 (and thousands of others throughout the mine’s history) miners who lost their lives in Granite Mountain Speculator Mine disaster, one of the worst mining fires in history (read here for more information: <a href="https://www.granitemine.org/history/">https://www.granitemine.org/history/</a>). Reading the letters of the miners to their family members was heart wrenching, and hearing the voices of those lost souls while looking out onto the ruined landscape that remains was devastating.</p>
+
+
+
+<p>More than anything, this memorial invigorated me with a sense of purpose, and served as a reminder of our obligation as geologists to make ethical decisions and put our morals and beliefs in environmental conservation above profits. As geologists, we have an duty, both professional and personal, to remember the consequences of our choices. We must act in accordance with our values, and remember what happens when we do not – the deaths, the toxic waste, and the contaminated water that will be our legacy if we are flippant about the consequences of mining, drilling, and mineral exploration. I love geology, and I appreciate so much what I have gained from studying the Earth, but it is important to remember the ways in which geology can contribute to harming the environment and exploiting Earth’s resources. I hope that the current and future generations of geologists will use their knowledge of this planet to better support it, nurture it, rehabilitate it, and prevent the type of devastation that occurred with the Berkley Pit. The image of this mine, and the knowledge of the lives lost to it, will remain with me forever, and will influence the choices I make as a future geologist.</p>
+
+
+
+<p>Overall, attending field camp validated my belief that field experience is necessary for any future geologist, and I am very grateful I had the opportunity to learn these skills in such an immersive, challenging, and beautiful environment. Field camp was the perfect capstone to my geology education, and my skills would not be fully developed without it. I grew so much as a geologist and as a person, and I am very grateful for the opportunity to attend such a rigorous course and meet such amazing people and professors. I am also incredibly grateful to Dorian and Tom Kuper and the AEG scholarship fund that supported my experience.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="683" height="1024" data-id="26800" src="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-683x1024.jpeg" alt="" class="wp-image-26800" srcset="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-683x1024.jpeg 683w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-200x300.jpeg 200w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-768x1152.jpeg 768w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-1024x1536.jpeg 1024w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-1365x2048.jpeg 1365w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-scaled.jpeg 1706w" sizes="(max-width: 683px) 100vw, 683px"></figure><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" data-id="26804" src="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-4-1024x683.jpeg" alt="" class="wp-image-26804" srcset="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-4-1024x683.jpeg 1024w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-4-300x200.jpeg 300w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-4-768x512.jpeg 768w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-4.jpeg 1086w" sizes="(max-width: 1024px) 100vw, 1024px"></figure></figure><figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex"><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" data-id="26799" src="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-1024x683.jpeg" alt="" class="wp-image-26799" srcset="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-1024x683.jpeg 1024w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-300x200.jpeg 300w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-768x512.jpeg 768w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-1536x1024.jpeg 1536w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-2048x1365.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></figure><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" data-id="26798" src="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-1024x683.jpeg" alt="" class="wp-image-26798" srcset="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-1024x683.jpeg 1024w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-300x200.jpeg 300w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-768x512.jpeg 768w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-1536x1024.jpeg 1536w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-2048x1365.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></figure></figure>]]></content>
+      <seo:title></seo:title>
+      <seo:description></seo:description>
+    </item>
+    <item>
+      <title>Tilford and Stout Scholar: Rio Baran</title>
+      <link>https://aegfoundation.org/tilford-and-stout-scholar-rio-baran/</link>
+      <description><![CDATA[<p>With the support of the AEG Foundation, I was able to spend the summer of 2023 on my first geology field season in the Australian Outback. There, I pursued questions on the role of&nbsp;early sponges’ (Archaeocyathids<em>)</em>&nbsp;in early animal evolution.&nbsp;Alongside a team of seasoned geo]]></description>
+      <content><![CDATA[<p>With the support of the AEG Foundation, I was able to spend the summer of 2023 on my first geology field season in the Australian Outback. There, I pursued questions on the role of&nbsp;early sponges’ (Archaeocyathids<em>)</em>&nbsp;in early animal evolution.&nbsp;Alongside a team of seasoned geologists from Princeton University’s Maloof Group, I set about to study the rocks of the Flinders Range. From sunrise to sunset,&nbsp;I searched the Paleozoic layered sedimentary rocks in the outback to better understand the climatic shifts of the early environment (including potential global glaciations) and the ecologies of 500-million-years ago.</p>
+
+
+
+<p>Specifically, my focus was on an archaeocyathid reef from the mid-Early Cambrian.&nbsp;</p>
+
+
+
+<p>Before archaeocyathids, there&nbsp;were no creatures that were able to build reefs that significantly altered the flow of water on the seafloor,<strong>&nbsp;</strong>and their existence aligns with the rapid evolution of complex animal life known as the Cambrian Explosion.&nbsp;Were achaeos crucial to the emergence of complex life? To answer this question, I wanted to know more about archaeos’ role as ecosystem engineers. How do archaeo reefs physically and chemically alter their surrounding environment? Do other organisms take advantage of these manufactured niches? My goal, in short, was to make a map of the Australian&nbsp;archaeocyathid reef.&nbsp;</p>
+
+
+
+<p>In the field, I studied the entirety of the reef, which was about 1,000 by 100 meters using multiple scales of observation. I took drone images, collected samples, and recorded observations in multiple transects along the reef. As in much of geology, the area that I had access to was 2D, but represented a 3D environment preserved at different times. Another scale of observation was point counting. The preservation of rock, while subpar in some areas, was magnificent in others. I developed a sampling system to record what was preserved in the windows of rock with particularly good preservation. At each point, I obtained a sample for lab study, GPS coordinates, and other information about the rock. The ability to observe closely and uncover Earth history was novel and magical!</p>
+
+
+
+<p>All the while, I was camping in some of the most beautiful, remote locations in the world. I learned how to make an apple crumble over a campfire, I woke up to kangaroos hopping past my tent, and I became skilled at hiking with a backpack full of rocks.</p>
+
+
+
+<p>After my month of field work, I returned to the lab at Princeton and got to work sawing, polishing, drilling, and measuring chemical isotopes. Over the course of this project, I progressed from reading literature to asking questions about field evidence, from familiarizing myself with lab equipment (like saws and polishers and mass spectrometers) to coordinating chemical analyses independently. I learned to consider difficult questions and confront unfamiliar situations. I’ve emerged as a fiercer scientist.</p>
+
+
+
+<p>I’m so thankful for the funding which made this opportunity possible. I consider the luck and beauty of research made possible by rocks that offer us a window into the past. I think about the poetry of walking through time and space as a geologist. I will carry the practical skills and scientific resilience from my archaeocyathid project through my final year of geoscience at Princeton University and beyond.</p>]]></content>
+      <seo:title></seo:title>
+      <seo:description></seo:description>
+    </item>
+    <item>
+      <title>Allie Faunce Field Camp – 2023 Beardsley Kuper Field Camp Scholarship Winner</title>
+      <link>https://aegfoundation.org/allie-faunce-field-camp-2023-beardsley-kuper-field-camp-scholarship-winner/</link>
+      <description><![CDATA[<p>My field camp experience in Newfoundland, Canada was a pivotal moment in my journey to pursuing exploration geology and geophysics. This six-week field camp experience not only enhanced my skills in geology and developed life-long friendships, but it deepened my passion for geophysics and explora]]></description>
+      <content><![CDATA[<p>My field camp experience in Newfoundland, Canada was a pivotal moment in my journey to pursuing exploration geology and geophysics. This six-week field camp experience not only enhanced my skills in geology and developed life-long friendships, but it deepened my passion for geophysics and exploration geology and led to my dedication in pursuing this as a career, all while introducing me to the awe-inspiring geological wonders of Newfoundland.</p>
+
+
+
+
+
+
+
+<p>My adventure started with a three-day car and ferry expedition, marking my first-ever border crossing into the captivating landscape of Canada. The anticipation grew as I journeyed through picturesque towns and winding roads, providing tantalizing glimpses of Canada’s stunning geology and something I would soon be all too familiar with- limestone conglomerate.</p>
+
+
+
+<p>Day-in and day-out, we studied and trekked the insane geology of Newfoundland to develop geological maps, cross sections, stereonet plots, and, even, geophysical surveys (seismic and electrical resistivity surveys). Looking back, it is hard to pick a favorite field moment because while they all provide different challenges, I genuinely loved trying to decipher this geologic puzzle and figuring out mechanically how it all fit together. Our field locations included Gros Morne National Park, Green Point (a Global Stratotype Section and Point for the boundary between Cambrian-Ordovician), Cow Head Peninsula, and St. Johns, Newfoundland.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex"><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="622" height="462" data-id="26680" src="https://aegfoundation.org/wp-content/uploads/2024/01/Allie-F-4.png" alt="" class="wp-image-26680" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/Allie-F-4.png 622w, https://aegfoundation.org/wp-content/uploads/2024/01/Allie-F-4-300x223.png 300w" sizes="(max-width: 622px) 100vw, 622px"><figcaption class="wp-element-caption">Green Point, GSSP</figcaption></figure><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="680" height="504" data-id="26682" src="https://aegfoundation.org/wp-content/uploads/2024/01/Allie-F-5.png" alt="" class="wp-image-26682" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/Allie-F-5.png 680w, https://aegfoundation.org/wp-content/uploads/2024/01/Allie-F-5-300x222.png 300w" sizes="(max-width: 680px) 100vw, 680px"><figcaption class="wp-element-caption">Some of the many crazy folds seen in Cow Head, Newfoundland.</figcaption></figure><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="652" height="712" data-id="26681" src="https://aegfoundation.org/wp-content/uploads/2024/01/Allie-F-6.png" alt="" class="wp-image-26681" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/Allie-F-6.png 652w, https://aegfoundation.org/wp-content/uploads/2024/01/Allie-F-6-275x300.png 275w" sizes="(max-width: 652px) 100vw, 652px"><figcaption class="wp-element-caption">Sitting on a ripped-up mega limestone conglomerate clast.</figcaption></figure></figure><p>The geology of Newfoundland is a world apart from the familiar landscape of Pennsylvania, and having the opportunity to participate in a field camp there was nothing short of extraordinary. From dramatic fold structures to colossal megaclasts, it was a structural geologist’s best dream or worst nightmare. The amount of hand signs used (trying to communicate the formation of this structure) and headaches rose significantly during the Cow Head mapping portion.</p>
+
+
+
+<p>My favorite part about learning from my professors was their patience in answering my endless what-if questions and challenging my thinking and knowledge as well. Getting into the exploration geologist </p>
+
+
+
+<p>mindset, most of my questions pertained to ‘where the best place would be to drill if searching for oil basins or rare seams of minerals’.</p>
+
+
+
+<p>Looking back, these were by far some of my favorite memories because the academia learned throughout my time at Wilkes University started clicking with the professional aspect of what I hoped my career would be in the future. Here I even received one of the most impactful compliments that will definitely stick with me for my entire professional career- that I answered their verbal exam questions like a true structural geologist would.</p>
+
+
+
+<p>I’m immensely grateful for this experience enabling my passion in this field of geology and for the relationships I have built during this experience. I would like to thank the AEG Foundation, including Dorian and Tom Kuper, as well as the professors and students for whom this trip wouldn’t have been possible without. If you have any questions or would like to hear more about this experience, please feel free to contact me at <a href="mailto:allie.faunce@wilkes.edu">allie.faunce@wilkes.edu</a>.</p>
+
+
+
+<p>Allie Faunce</p>]]></content>
+      <seo:title></seo:title>
+      <seo:description></seo:description>
+    </item>
+    <item>
+      <title>AEG Foundation – History Part 1</title>
+      <link>https://aegfoundation.org/aeg-foundation-history-part-1/</link>
+      <description><![CDATA[<p>(AEG) in 1993, the AEG Foundation was formed to serve as a financial platform to allow tax deductible charity and contributions to support and advance our profession. Dick Galster, John Williams &amp; John Ivy had the vision to realize that an organized, tax-exempt qualified foundation would faci]]></description>
+      <content><![CDATA[<p>(AEG) in 1993, the AEG Foundation was formed to serve as a financial platform to allow tax deductible charity and contributions to support and advance our profession. Dick Galster, John Williams &amp; John Ivy had the vision to realize that an organized, tax-exempt qualified foundation would facilitate and promote the support of current and future Engineering Geologists using funds contributed by members for our profession who have the financial means and passion for Engineering Geology.</p>
+
+
+
+<p>Today, the Foundation has evolved from 6 funds to over 20 funds growing into a financial resource to our profession of more than $1,100,000. The six founding donor funds consisted of the following:</p>
+
+
+
+<ul>
+<li>Johnston – Administrative support</li>
+
+
+
+<li>Marliave -Educational scholarships &amp; workshops</li>
+
+
+
+<li>Legget – Annual &amp; special publications</li>
+
+
+
+<li>Jahns – Developing &amp; supporting public speaking</li>
+
+
+
+<li>Gardner – Research grants, and</li>
+
+
+
+<li>Eckel – Archiving key professional documents</li>
+</ul>
+<p>The Foundation has been directly responsible for over $400,000 in scholarships and other financial support within our profession since its inception. The Foundation has grown dramatically with the support of many esteemed professionals to create additional funds and to support existing funds both financially and by publicizing them to eligible students.&nbsp;</p>]]></content>
+      <seo:title></seo:title>
+      <seo:description></seo:description>
+    </item>
+    <item>
+      <title>Grant Bradbury Field Camp – 2023 Beardsley Kuper Field Camp Scholarship Winner</title>
+      <link>https://aegfoundation.org/grant-bradbury-field-camp-2023-beardsley-kuper-field-camp-scholarship-winner/</link>
+      <description><![CDATA[<p>A large part of why I selected Idaho State University for my undergraduate in geosciences was due to the wide variety of topics covered and the physical and mental intensity of the field camp, and I am happy to report that it did not disappoint. The setting of ISU’s Lost River Field Station is ab]]></description>
+      <content><![CDATA[<p>A large part of why I selected Idaho State University for my undergraduate in geosciences was due to the wide variety of topics covered and the physical and mental intensity of the field camp, and I am happy to report that it did not disappoint. The setting of ISU’s Lost River Field Station is absolutely stunning. The LRFS is situated about 15 miles north of Mackay, Idaho along the Big Lost River near the foot of Mt. Borah, Idaho’s tallest peak at 12,660 feet.</p>
+
+
+
+<p>The general structure of coursework was 2-5 days of field work per project followed by either a full office day for the larger projects, or a half office day for the smaller ones. Typically, each project consisted of a geologic map, geologic history, a description of map units, and a cross section.</p>
+
+
+
+<p>The first week was spent mapping sedimentary rocks in Darlington with Dr. Kurt Sundell of ISU. This exercise was primarily to test our mapping skills and introduce us to identifying folds based on plotted structural attitudes. It also served to help us use fine details in fossil succession, primarily the occurrence of marker fossils, to differentiate what would otherwise be identical grey carbonates.</p>
+
+
+
+<p>The next week was geomorphology week, and we spent the week mapping river terraces and performing hydrologic measurements in Rock Creek, and mapping mass movement along Grant Creek with Dr. Glenn Thackaray of ISU. The Rock creek hydrology measurements were a combination of traditional analog methods such as cross-sectional area discharge calculations and more modern methods like salt dilution and a velocimeter. We also used differences in vegetative cover and cross cutting relationships to determine the relative ages of the different episodes of movement and movement style.</p>
+
+
+
+<p>The third week was dedicated to volcanics, specifically Eocene Challis Volcanics, and we completed two maps in one week, one of the Grouse, ID area and one of Jim Canyon. These projects were completed with Dr. Shannon Kobs-Nawotniak of ISU. This week was almost exclusively dedicated to recognizing unconformities in the field and differentiating units based on subtle minerology changes. This week is also where writing good geologic histories came into play, as there were several tilting events and cross cutting dikes, so being able to spot subtle differences in bedding and incorporating it were paramount.</p>
+
+
+
+<p>The fourth week was focused on igneous and metamorphic rock mapping in Boulder Creek with Dr. Kendra Murray of ISU and special guest Mark Schmitz with Boise State University. We also had a representative from Brunton Compasses, Monica, at camp that week. The primary objectives from this week were differentiating metamorphic and intrusive igneous rocks based on texture and composition differences. This was easily my favorite field site, as it was the most physically demanding and most beautiful field area.</p>
+
+
+
+<p>The fifth and final week was dedicated to structure and was completed at Banana Canyon along the Big Lost River with Dr. David Pearson from ISU. This week was mostly focused on bringing all of our mapping skills together into a polished final project with a structural emphasis.</p>
+
+
+
+<p>At the end of camp, I can confidently look back and say that I greatly improved my field geologist skills and am now far more competent and career ready than I was at the beginning of camp. I greatly appreciate the Beardsley-Kuper scholarship fund for allowing me to attend field camp without financial hardship. In addition to my professional development, I strengthened bonds with my existing friends and made new lifelong friends and professional contacts with students and futures geoscientists from across America.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex"><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="573" height="1024" data-id="26671" src="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-573x1024.jpg" alt="" class="wp-image-26671" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-573x1024.jpg 573w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-168x300.jpg 168w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-768x1371.jpg 768w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-860x1536.jpg 860w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-1147x2048.jpg 1147w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-scaled.jpg 1434w" sizes="(max-width: 573px) 100vw, 573px"><figcaption class="wp-element-caption">Observing slickenside lines in Smiley Creek Conglomerate, Bannana Canyon, ID</figcaption></figure><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="9248" height="6936" data-id="26670" src="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-1.jpg" alt="" class="wp-image-26670" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-1.jpg 9248w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-1-300x225.jpg 300w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-1-768x576.jpg 768w" sizes="(max-width: 9248px) 100vw, 9248px"><figcaption class="wp-element-caption">Using a velocimeter at Rock Creek, ID</figcaption></figure><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="9248" height="6936" data-id="26669" src="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-2.jpg" alt="" class="wp-image-26669" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-2.jpg 9248w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-2-300x225.jpg 300w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-2-768x576.jpg 768w" sizes="(max-width: 9248px) 100vw, 9248px"><figcaption class="wp-element-caption">Recording attitudes of carbonates at Darlington, ID field area</figcaption></figure></figure>]]></content>
+      <seo:title></seo:title>
+      <seo:description></seo:description>
+    </item>
+    <item>
+      <title>Kawner Sistrunk Field Camp – 2023 Beardsley Kuper Field Camp Scholarship Winner</title>
+      <link>https://aegfoundation.org/kawner-sistrunk-field-camp-2023-beardsley-kuper-field-camp-scholarship-winner/</link>
+      <description><![CDATA[<p>During the past several weeks, I have been exploring central Idaho as a student with Idaho State University’s field camp. My experience with this field camp is entirely positive because I enjoyed the time I spent working and thinking about the rocks. The Lost River Field Station where ISU hosts t]]></description>
+      <content><![CDATA[<p>During the past several weeks, I have been exploring central Idaho as a student with Idaho State University’s field camp. My experience with this field camp is entirely positive because I enjoyed the time I spent working and thinking about the rocks. The Lost River Field Station where ISU hosts their field camp is situated near the base of the Lost River Range. While we were working, we had the field camp director, Dr. Ryan Anderson, one or two visiting professors, and three teaching assistants available to answer our questions, and we had sufficient tools to help us create our maps and other deliverables. Our deliverables for each week primarily included a geologic map, description of map units, geologic history of the area, and a cross section.</p>
+
+
+
+<p>The first of the five weeks of field camp was focused primarily on sedimentary rocks, and Dr. Kurt Sundell was the visiting professor to assist with this project. The ideas that were emphasized during sedimentary week included paying attention to bedding attitudes, rule of V’s, and fossil composition in different carbonate rocks. To correctly map the unit boundaries, we were trained to use the rule of V’s to map with the topography. By the end of the first week, we were able to make reasonable geologic maps.</p>
+
+
+
+<p>We quickly started geomorphology week with Dr. Glenn Thackray for our second week of field camp. The river evolution project required that we understand river erosion enough to map river terraces. The next task was to map landslide deposits while separating out rockfalls, minor slumps, and levees. With two mapping projects completed, we ended the week using different methods of stream gauging including a velocimeter and volumetric stream measurements combined with velocity of an orange moving through the measured area.</p>
+
+
+
+<p>Volcanology was the focus of our third week. Dr. Shannon Kobs Nawotniak was the visiting professor for this week, and she helped explain to us some basic concepts for classifying and differentiating volcanic rocks. The units for both field areas are contained within the Cenozoic with the Challis volcanic units being Eocene in age. The Challis volcanic units are famously difficult to map and interpret, but we completed this task in smaller areas during field camp. By the end of the week, we were able to correctly identify a tuff from a flow from a volcanic mudflow.</p>
+
+
+
+<p>Our fourth week was focused on petrology, and we had two visiting professors: Dr. Kendra Murray and Dr. Mark Schmitz. Defining different units was not an issue because we were given the description of map units prior to entering the field. The primary challenges that we faced were differentiating the two similar gneiss units, understanding low angle normal faults, and measuring foliations. Our final maps showed a north-dipping low angle normal fault revealing old gneiss units that are folded. By the end of the week, the quality of our petrologic observations was much higher than before.</p>
+
+
+
+<p>Before our final week of field camp, we took a few days to visit Yellowstone National Park as a class to learn about the extremely interesting geology that makes up Yellowstone. We looked at some of the different lava flows, tuffs, and calderas related to Yellowstone eruptions. The hydrothermal features were a significant part of our visit because of the surface features we see and the implications that they reveal of what is occurring underground. Our trip ended with looking at a landslide deposit that was triggered by an earthquake from a normal fault nearby.</p>
+
+
+
+<p>Once we got back from Yellowstone, our final week of field camp was under way. Dr. Dave Pearson was our visiting professor for structure week. We only had one field area for this week because our brains were pushed to the limit by combining many of the skills we acquired along with new ideas. We had to use rule of V’s, differentiate Challis tuffs and lava flows, and better field observations gathered throughout our weeks of field camp. We measured an abundant amount of slickenlines across the fault surface to understand the direction of slip. With our field observations combined with stereonet information, our final maps of field camp were completed with geologic accuracy.</p>
+
+
+
+<p>Overall, the field camp experience with ISU was phenomenal. I felt challenged with many of the tasks, and I feel like I learned a lot. Alongside this, I had a fantastic time and made some great memories. I would not have been able to have this field camp experience without the Beardsley Kuper Field Camp Scholarship, and for that, I am extremely grateful. As I am going straight into graduate school, I am extremely happy to have had this opportunity to learn and enjoy my summer.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-6 is-layout-flex wp-block-gallery-is-layout-flex"><figure class="wp-block-image size-large is-style-rounded"><img loading="lazy" decoding="async" width="768" height="1024" data-id="26662" src="https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-768x1024.jpg" alt="" class="wp-image-26662" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-768x1024.jpg 768w, https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-225x300.jpg 225w, https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-1152x1536.jpg 1152w, https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-1536x2048.jpg 1536w, https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px"></figure><figure class="wp-block-image size-large is-style-rounded"><img loading="lazy" decoding="async" width="768" height="1024" data-id="26663" src="https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-768x1024.jpg" alt="" class="wp-image-26663" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-768x1024.jpg 768w, https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-225x300.jpg 225w, https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-1152x1536.jpg 1152w, https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-1536x2048.jpg 1536w, https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px"></figure><figure class="wp-block-image size-large is-style-rounded"><img loading="lazy" decoding="async" width="768" height="1024" data-id="26664" src="https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-768x1024.jpg" alt="" class="wp-image-26664" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-768x1024.jpg 768w, https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-225x300.jpg 225w, https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-1152x1536.jpg 1152w, https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-1536x2048.jpg 1536w, https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px"></figure></figure>]]></content>
+      <seo:title></seo:title>
+      <seo:description></seo:description>
+    </item>
+    <item>
+      <title>Welcome!</title>
+      <link>https://aegfoundation.org/welcome/</link>
+      <description><![CDATA[<p>As part of the AEG Foundation’s efforts to get the word out on how our scholarships and grants are helping students and practitioners across the country, we are creating this space for testimonials, stories, and information for all. If you would like to write about your experiences and the people]]></description>
+      <content><![CDATA[<p>As part of the AEG Foundation’s efforts to get the word out on how our scholarships and grants are helping students and practitioners across the country, we are creating this space for testimonials, stories, and information for all. If you would like to write about your experiences and the people who you’ve met through the AEG Foundation, please contact us at staff@aegfoundation.org or anyone on the Board of Directors.<br>As a quick reminder, grant applications can be submitted year round and scholarship applications are due on January 15th of each year.</p>]]></content>
+      <seo:title></seo:title>
+      <seo:description></seo:description>
     </item>
   </channel>
 </rss>
