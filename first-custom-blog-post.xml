@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AEG Foundation</title>
     <link>https://aegfoundation.org/</link>
+    <atom:link href="https://aegfoundation.org/feed/" rel="self" type="application/rss+xml" />
     <description></description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Aug 2025 10:48:31 GMT</lastBuildDate>
+
+
     <item>
       <title>Going Off Map: The Adventure of Discovery at Geology Field Camp!</title>
       <link>https://aegfoundation.org/going-off-map-the-adventure-of-discovery-at-geology-field-camp/</link>
-      <description><![CDATA[<p>By Isaac E. Pope</p>
-
-
-
-<p>At the core of every scientist and engineer is an explorer and investigator with some deeply imbedded personality to seek out what is unknown or unfixed and create some new conceptualization or contraption out of it. They spend years honing their craft, learning the int]]></description>
-      <content><![CDATA[<p>By Isaac E. Pope</p>
+      <pubDate>Fri, 14 Mar 2025 21:30:00 GMT</pubDate>
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[Beardsley Kuper]]></category>
+      <guid isPermaLink="false">https://aegfoundation.org/?p=26838</guid>
+      <description><![CDATA[By Isaac E. Pope At the core of every scientist and engineer is an explorer and investigator with some deeply imbedded personality to seek out what is unknown or unfixed and create some new conceptual]]></description>
+      <content:encoded><![CDATA[<p>By Isaac E. Pope</p>
 
 
 
@@ -64,19 +72,23 @@
 
 
 
-<p>Trudgill, B.D., Banbury, N., Underhill, J., and Post, P.J., 2004, Salt evolution as a control on structural and stratigraphic systems: Northern Paradox foreland basin, southeast Utah, USA, in Post, P.J., Olson, D.L., Lyons, K.T., Palmes, S.L., Harrison, P.F., and Rosen, N.C., eds., Salt-Sediment Interactions and Hydrocarbon Prospectivity Concepts, Applications and Case Studies for the 21st Century: Gulf Coast Section SEPM (Society for Sedimentary Geology), Houston, Texas, December 5–8, Annual Bob F. Perkins Research Conference : SEPM (Society for Sedimentary Geology), v. 24, p. 669–700, doi.org: 10.5724/gcs.04.24.0669.</p>]]></content>
-      <seo:title></seo:title>
-      <seo:description></seo:description>
+<p>Trudgill, B.D., Banbury, N., Underhill, J., and Post, P.J., 2004, Salt evolution as a control on structural and stratigraphic systems: Northern Paradox foreland basin, southeast Utah, USA, in Post, P.J., Olson, D.L., Lyons, K.T., Palmes, S.L., Harrison, P.F., and Rosen, N.C., eds., Salt-Sediment Interactions and Hydrocarbon Prospectivity Concepts, Applications and Case Studies for the 21st Century: Gulf Coast Section SEPM (Society for Sedimentary Geology), Houston, Texas, December 5–8, Annual Bob F. Perkins Research Conference : SEPM (Society for Sedimentary Geology), v. 24, p. 669–700, doi.org: 10.5724/gcs.04.24.0669.</p>]]></content:encoded>
+      <enclosure url="https://aegfoundation.org/wp-content/uploads/2025/02/Pope-AEG-Beardley-Kuper-Fig1-1024x577.jpeg" length="0" type="image/jpeg"/>
+      
+      <media:content medium="image" url="https://aegfoundation.org/wp-content/uploads/2025/02/Pope-AEG-Beardley-Kuper-Fig1-1024x577.jpeg">
+        <media:description>Main Image</media:description>
+      </media:content>
     </item>
+
     <item>
       <title>Field Camp: A Rocking Way to End a Geology Degree</title>
       <link>https://aegfoundation.org/field-camp-a-rocking-way-to-end-a-geology-degree/</link>
-      <description><![CDATA[<p>By Aleigha Dollens, University of Missouri- Kansas City</p>
-
-
-
-<p>As a geology student at the end of her bachelor’s degree, I had heard the rumors and the great stories about field camp and all that it includes. It was an experience that I had looked forward to throughout my undergraduate degree.]]></description>
-      <content><![CDATA[<p>By Aleigha Dollens, University of Missouri- Kansas City</p>
+      <pubDate>Fri, 21 Feb 2025 08:59:12 GMT</pubDate>
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[Beardsley Kuper]]></category>
+      <guid isPermaLink="false">https://aegfoundation.org/?p=26828</guid>
+      <description><![CDATA[By Aleigha Dollens, University of Missouri- Kansas City As a geology student at the end of her bachelor’s degree, I had heard the rumors and the great stories about field camp and all that it includes]]></description>
+      <content:encoded><![CDATA[<p>By Aleigha Dollens, University of Missouri- Kansas City</p>
 
 
 
@@ -100,15 +112,24 @@
 
 
 
-<p>While reflecting on the experience, I truly believe that ISU has one of the finest geology field camps in the country. Dr. David Malone is not only an incredible geologist, but a phenomenal mentor to the students that he teaches. It is an honor to be a part of the 800+ students that he has led in the field. This camp challenged me and taught me more than any textbook ever could. It taught me to believe in myself and my abilities to be a scientist. It also taught me to work with others and to keep going up the mountain, even when things get tough. I have never had an experience teach me so much in such little time, about myself and academically. Attending field camp was the final connection needed to fully understand the courses that I had taken in my undergraduate degree and helped me feel prepared to take on the professional geology world. I will forever be grateful to the other students and the professors that were in attendance. I also look forward to getting to tell the stories of field camp to geology students who have yet to experience camp. I hope that every student has a field experience that was as incredible as mine. ISU Field Camp 2024 will forever be one of my favorite memories. Thank you to everyone who has supported my journey, both in and out of the field. Up the mountain!</p>]]></content>
-      <seo:title></seo:title>
-      <seo:description></seo:description>
+<p>While reflecting on the experience, I truly believe that ISU has one of the finest geology field camps in the country. Dr. David Malone is not only an incredible geologist, but a phenomenal mentor to the students that he teaches. It is an honor to be a part of the 800+ students that he has led in the field. This camp challenged me and taught me more than any textbook ever could. It taught me to believe in myself and my abilities to be a scientist. It also taught me to work with others and to keep going up the mountain, even when things get tough. I have never had an experience teach me so much in such little time, about myself and academically. Attending field camp was the final connection needed to fully understand the courses that I had taken in my undergraduate degree and helped me feel prepared to take on the professional geology world. I will forever be grateful to the other students and the professors that were in attendance. I also look forward to getting to tell the stories of field camp to geology students who have yet to experience camp. I hope that every student has a field experience that was as incredible as mine. ISU Field Camp 2024 will forever be one of my favorite memories. Thank you to everyone who has supported my journey, both in and out of the field. Up the mountain!</p>]]></content:encoded>
+      <enclosure url="https://aegfoundation.org/wp-content/uploads/2025/02/Screen-Shot-2025-02-21-at-8.55.10-AM-2.png" length="0" type="image/jpeg"/>
+      
+      <media:content medium="image" url="https://aegfoundation.org/wp-content/uploads/2025/02/Screen-Shot-2025-02-21-at-8.55.10-AM-2.png">
+        <media:description>Main Image</media:description>
+      </media:content>
     </item>
+
     <item>
       <title>Julia Rudlaff Field Camp – 2024 Beardsley Kuper Field Camp Scholarship Winner</title>
       <link>https://aegfoundation.org/julia-rudlaff-field-camp-2024-beardsley-kuper-field-camp-scholarship-winner/</link>
-      <description><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My field camp experience was challenging, educational, and a whole lot of fun. I spent six weeks exploring the Tobacco Root Mountains in Cardwell, Montana amidst the cacti, lodgepole pines, and many, many cows. I feel lucky to hav]]></description>
-      <content><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My field camp experience was challenging, educational, and a whole lot of fun. I spent six weeks exploring the Tobacco Root Mountains in Cardwell, Montana amidst the cacti, lodgepole pines, and many, many cows. I feel lucky to have been able to see such beautiful parts of the country, from Badlands National Park to Yellowstone to Glacier, from the mountain in the field station’s backyard (Brownback) to the tallest peak in the range (Hollow Top), from the gullies full of Mountain Mahogany to the tallest Madison Group ridges, I was immersed in the regional geology, topography, and landscapes of southwest Montana.</p>
+      <pubDate>Sat, 02 Nov 2024 20:01:37 GMT</pubDate>
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[Beardsley Kuper]]></category>
+      <category><![CDATA[Julia Rudlaff]]></category>
+      <guid isPermaLink="false">https://aegfoundation.org/?p=26803</guid>
+      <description><![CDATA[            My field camp experience was challenging, educational, and a whole lot of fun. I spent six weeks exploring the Tobacco Root Mountains in Cardwell, Montana amidst the cacti, lodgepole pines]]></description>
+      <content:encoded><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My field camp experience was challenging, educational, and a whole lot of fun. I spent six weeks exploring the Tobacco Root Mountains in Cardwell, Montana amidst the cacti, lodgepole pines, and many, many cows. I feel lucky to have been able to see such beautiful parts of the country, from Badlands National Park to Yellowstone to Glacier, from the mountain in the field station’s backyard (Brownback) to the tallest peak in the range (Hollow Top), from the gullies full of Mountain Mahogany to the tallest Madison Group ridges, I was immersed in the regional geology, topography, and landscapes of southwest Montana.</p>
 
 
 
@@ -136,15 +157,23 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="683" height="1024" data-id="26800" src="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-683x1024.jpeg" alt="" class="wp-image-26800" srcset="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-683x1024.jpeg 683w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-200x300.jpeg 200w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-768x1152.jpeg 768w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-1024x1536.jpeg 1024w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-1365x2048.jpeg 1365w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-scaled.jpeg 1706w" sizes="(max-width: 683px) 100vw, 683px"></figure><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" data-id="26804" src="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-4-1024x683.jpeg" alt="" class="wp-image-26804" srcset="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-4-1024x683.jpeg 1024w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-4-300x200.jpeg 300w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-4-768x512.jpeg 768w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-4.jpeg 1086w" sizes="(max-width: 1024px) 100vw, 1024px"></figure></figure><figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex"><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" data-id="26799" src="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-1024x683.jpeg" alt="" class="wp-image-26799" srcset="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-1024x683.jpeg 1024w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-300x200.jpeg 300w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-768x512.jpeg 768w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-1536x1024.jpeg 1536w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-2048x1365.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></figure><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" data-id="26798" src="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-1024x683.jpeg" alt="" class="wp-image-26798" srcset="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-1024x683.jpeg 1024w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-300x200.jpeg 300w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-768x512.jpeg 768w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-1536x1024.jpeg 1536w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-2048x1365.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></figure></figure>]]></content>
-      <seo:title></seo:title>
-      <seo:description></seo:description>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="683" height="1024" data-id="26800" src="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-683x1024.jpeg" alt="" class="wp-image-26800" srcset="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-683x1024.jpeg 683w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-200x300.jpeg 200w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-768x1152.jpeg 768w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-1024x1536.jpeg 1024w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-1365x2048.jpeg 1365w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-scaled.jpeg 1706w" sizes="(max-width: 683px) 100vw, 683px"></figure><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" data-id="26804" src="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-4-1024x683.jpeg" alt="" class="wp-image-26804" srcset="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-4-1024x683.jpeg 1024w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-4-300x200.jpeg 300w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-4-768x512.jpeg 768w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-4.jpeg 1086w" sizes="(max-width: 1024px) 100vw, 1024px"></figure></figure><figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex"><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" data-id="26799" src="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-1024x683.jpeg" alt="" class="wp-image-26799" srcset="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-1024x683.jpeg 1024w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-300x200.jpeg 300w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-768x512.jpeg 768w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-1536x1024.jpeg 1536w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-2-2048x1365.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></figure><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" data-id="26798" src="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-1024x683.jpeg" alt="" class="wp-image-26798" srcset="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-1024x683.jpeg 1024w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-300x200.jpeg 300w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-768x512.jpeg 768w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-1536x1024.jpeg 1536w, https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-3-2048x1365.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></figure></figure>]]></content:encoded>
+      <enclosure url="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-683x1024.jpeg" length="0" type="image/jpeg"/>
+      
+      <media:content medium="image" url="https://aegfoundation.org/wp-content/uploads/2024/11/Julia-Rudlaff-1-683x1024.jpeg">
+        <media:description>Main Image</media:description>
+      </media:content>
     </item>
+
     <item>
       <title>Tilford and Stout Scholar: Rio Baran</title>
       <link>https://aegfoundation.org/tilford-and-stout-scholar-rio-baran/</link>
-      <description><![CDATA[<p>With the support of the AEG Foundation, I was able to spend the summer of 2023 on my first geology field season in the Australian Outback. There, I pursued questions on the role of&nbsp;early sponges’ (Archaeocyathids<em>)</em>&nbsp;in early animal evolution.&nbsp;Alongside a team of seasoned geo]]></description>
-      <content><![CDATA[<p>With the support of the AEG Foundation, I was able to spend the summer of 2023 on my first geology field season in the Australian Outback. There, I pursued questions on the role of&nbsp;early sponges’ (Archaeocyathids<em>)</em>&nbsp;in early animal evolution.&nbsp;Alongside a team of seasoned geologists from Princeton University’s Maloof Group, I set about to study the rocks of the Flinders Range. From sunrise to sunset,&nbsp;I searched the Paleozoic layered sedimentary rocks in the outback to better understand the climatic shifts of the early environment (including potential global glaciations) and the ecologies of 500-million-years ago.</p>
+      <pubDate>Thu, 15 Aug 2024 21:03:51 GMT</pubDate>
+      <category><![CDATA[Uncategorized]]></category>
+      <category><![CDATA[Tilford]]></category>
+      <guid isPermaLink="false">https://aegfoundation.org/?p=26775</guid>
+      <description><![CDATA[With the support of the AEG Foundation, I was able to spend the summer of 2023 on my first geology field season in the Australian Outback. There, I pursued questions on the role of early sponges’ (Arc]]></description>
+      <content:encoded><![CDATA[<p>With the support of the AEG Foundation, I was able to spend the summer of 2023 on my first geology field season in the Australian Outback. There, I pursued questions on the role of&nbsp;early sponges’ (Archaeocyathids<em>)</em>&nbsp;in early animal evolution.&nbsp;Alongside a team of seasoned geologists from Princeton University’s Maloof Group, I set about to study the rocks of the Flinders Range. From sunrise to sunset,&nbsp;I searched the Paleozoic layered sedimentary rocks in the outback to better understand the climatic shifts of the early environment (including potential global glaciations) and the ecologies of 500-million-years ago.</p>
 
 
 
@@ -168,15 +197,22 @@
 
 
 
-<p>I’m so thankful for the funding which made this opportunity possible. I consider the luck and beauty of research made possible by rocks that offer us a window into the past. I think about the poetry of walking through time and space as a geologist. I will carry the practical skills and scientific resilience from my archaeocyathid project through my final year of geoscience at Princeton University and beyond.</p>]]></content>
-      <seo:title></seo:title>
-      <seo:description></seo:description>
+<p>I’m so thankful for the funding which made this opportunity possible. I consider the luck and beauty of research made possible by rocks that offer us a window into the past. I think about the poetry of walking through time and space as a geologist. I will carry the practical skills and scientific resilience from my archaeocyathid project through my final year of geoscience at Princeton University and beyond.</p>]]></content:encoded>
+      <enclosure url="https://aegfoundation.org/wp-content/uploads/2024/08/archaeocyathid-3-768x1024.jpg" length="0" type="image/jpeg"/>
+      
+      <media:content medium="image" url="https://aegfoundation.org/wp-content/uploads/2024/08/archaeocyathid-3-768x1024.jpg">
+        <media:description>Main Image</media:description>
+      </media:content>
     </item>
+
     <item>
       <title>Allie Faunce Field Camp – 2023 Beardsley Kuper Field Camp Scholarship Winner</title>
       <link>https://aegfoundation.org/allie-faunce-field-camp-2023-beardsley-kuper-field-camp-scholarship-winner/</link>
-      <description><![CDATA[<p>My field camp experience in Newfoundland, Canada was a pivotal moment in my journey to pursuing exploration geology and geophysics. This six-week field camp experience not only enhanced my skills in geology and developed life-long friendships, but it deepened my passion for geophysics and explora]]></description>
-      <content><![CDATA[<p>My field camp experience in Newfoundland, Canada was a pivotal moment in my journey to pursuing exploration geology and geophysics. This six-week field camp experience not only enhanced my skills in geology and developed life-long friendships, but it deepened my passion for geophysics and exploration geology and led to my dedication in pursuing this as a career, all while introducing me to the awe-inspiring geological wonders of Newfoundland.</p>
+      <pubDate>Thu, 29 Feb 2024 21:00:00 GMT</pubDate>
+      <category><![CDATA[Testimonials]]></category>
+      <guid isPermaLink="false">https://aegfoundation.org/?p=26676</guid>
+      <description><![CDATA[My field camp experience in Newfoundland, Canada was a pivotal moment in my journey to pursuing exploration geology and geophysics. This six-week field camp experience not only enhanced my skills in g]]></description>
+      <content:encoded><![CDATA[<p>My field camp experience in Newfoundland, Canada was a pivotal moment in my journey to pursuing exploration geology and geophysics. This six-week field camp experience not only enhanced my skills in geology and developed life-long friendships, but it deepened my passion for geophysics and exploration geology and led to my dedication in pursuing this as a career, all while introducing me to the awe-inspiring geological wonders of Newfoundland.</p>
 
 
 
@@ -212,15 +248,22 @@
 
 
 
-<p>Allie Faunce</p>]]></content>
-      <seo:title></seo:title>
-      <seo:description></seo:description>
+<p>Allie Faunce</p>]]></content:encoded>
+      <enclosure url="https://aegfoundation.org/wp-content/uploads/2024/01/Allie-F-1.png" length="0" type="image/jpeg"/>
+      
+      <media:content medium="image" url="https://aegfoundation.org/wp-content/uploads/2024/01/Allie-F-1.png">
+        <media:description>Main Image</media:description>
+      </media:content>
     </item>
+
     <item>
       <title>AEG Foundation – History Part 1</title>
       <link>https://aegfoundation.org/aeg-foundation-history-part-1/</link>
-      <description><![CDATA[<p>(AEG) in 1993, the AEG Foundation was formed to serve as a financial platform to allow tax deductible charity and contributions to support and advance our profession. Dick Galster, John Williams &amp; John Ivy had the vision to realize that an organized, tax-exempt qualified foundation would faci]]></description>
-      <content><![CDATA[<p>(AEG) in 1993, the AEG Foundation was formed to serve as a financial platform to allow tax deductible charity and contributions to support and advance our profession. Dick Galster, John Williams &amp; John Ivy had the vision to realize that an organized, tax-exempt qualified foundation would facilitate and promote the support of current and future Engineering Geologists using funds contributed by members for our profession who have the financial means and passion for Engineering Geology.</p>
+      <pubDate>Tue, 13 Feb 2024 21:00:00 GMT</pubDate>
+      <category><![CDATA[News]]></category>
+      <guid isPermaLink="false">https://aegfoundation.org/?p=26674</guid>
+      <description><![CDATA[(AEG) in 1993, the AEG Foundation was formed to serve as a financial platform to allow tax deductible charity and contributions to support and advance our profession. Dick Galster, John Williams &amp;]]></description>
+      <content:encoded><![CDATA[<p>(AEG) in 1993, the AEG Foundation was formed to serve as a financial platform to allow tax deductible charity and contributions to support and advance our profession. Dick Galster, John Williams &amp; John Ivy had the vision to realize that an organized, tax-exempt qualified foundation would facilitate and promote the support of current and future Engineering Geologists using funds contributed by members for our profession who have the financial means and passion for Engineering Geology.</p>
 
 
 
@@ -251,15 +294,19 @@
 
 <li>Eckel – Archiving key professional documents</li>
 </ul>
-<p>The Foundation has been directly responsible for over $400,000 in scholarships and other financial support within our profession since its inception. The Foundation has grown dramatically with the support of many esteemed professionals to create additional funds and to support existing funds both financially and by publicizing them to eligible students.&nbsp;</p>]]></content>
-      <seo:title></seo:title>
-      <seo:description></seo:description>
+<p>The Foundation has been directly responsible for over $400,000 in scholarships and other financial support within our profession since its inception. The Foundation has grown dramatically with the support of many esteemed professionals to create additional funds and to support existing funds both financially and by publicizing them to eligible students.&nbsp;</p>]]></content:encoded>
+      
+      
     </item>
+
     <item>
       <title>Grant Bradbury Field Camp – 2023 Beardsley Kuper Field Camp Scholarship Winner</title>
       <link>https://aegfoundation.org/grant-bradbury-field-camp-2023-beardsley-kuper-field-camp-scholarship-winner/</link>
-      <description><![CDATA[<p>A large part of why I selected Idaho State University for my undergraduate in geosciences was due to the wide variety of topics covered and the physical and mental intensity of the field camp, and I am happy to report that it did not disappoint. The setting of ISU’s Lost River Field Station is ab]]></description>
-      <content><![CDATA[<p>A large part of why I selected Idaho State University for my undergraduate in geosciences was due to the wide variety of topics covered and the physical and mental intensity of the field camp, and I am happy to report that it did not disappoint. The setting of ISU’s Lost River Field Station is absolutely stunning. The LRFS is situated about 15 miles north of Mackay, Idaho along the Big Lost River near the foot of Mt. Borah, Idaho’s tallest peak at 12,660 feet.</p>
+      <pubDate>Wed, 31 Jan 2024 21:00:00 GMT</pubDate>
+      <category><![CDATA[Testimonials]]></category>
+      <guid isPermaLink="false">https://aegfoundation.org/?p=26672</guid>
+      <description><![CDATA[A large part of why I selected Idaho State University for my undergraduate in geosciences was due to the wide variety of topics covered and the physical and mental intensity of the field camp, and I a]]></description>
+      <content:encoded><![CDATA[<p>A large part of why I selected Idaho State University for my undergraduate in geosciences was due to the wide variety of topics covered and the physical and mental intensity of the field camp, and I am happy to report that it did not disappoint. The setting of ISU’s Lost River Field Station is absolutely stunning. The LRFS is situated about 15 miles north of Mackay, Idaho along the Big Lost River near the foot of Mt. Borah, Idaho’s tallest peak at 12,660 feet.</p>
 
 
 
@@ -291,15 +338,22 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex"><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="573" height="1024" data-id="26671" src="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-573x1024.jpg" alt="" class="wp-image-26671" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-573x1024.jpg 573w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-168x300.jpg 168w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-768x1371.jpg 768w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-860x1536.jpg 860w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-1147x2048.jpg 1147w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-scaled.jpg 1434w" sizes="(max-width: 573px) 100vw, 573px"><figcaption class="wp-element-caption">Observing slickenside lines in Smiley Creek Conglomerate, Bannana Canyon, ID</figcaption></figure><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="9248" height="6936" data-id="26670" src="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-1.jpg" alt="" class="wp-image-26670" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-1.jpg 9248w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-1-300x225.jpg 300w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-1-768x576.jpg 768w" sizes="(max-width: 9248px) 100vw, 9248px"><figcaption class="wp-element-caption">Using a velocimeter at Rock Creek, ID</figcaption></figure><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="9248" height="6936" data-id="26669" src="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-2.jpg" alt="" class="wp-image-26669" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-2.jpg 9248w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-2-300x225.jpg 300w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-2-768x576.jpg 768w" sizes="(max-width: 9248px) 100vw, 9248px"><figcaption class="wp-element-caption">Recording attitudes of carbonates at Darlington, ID field area</figcaption></figure></figure>]]></content>
-      <seo:title></seo:title>
-      <seo:description></seo:description>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex"><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="573" height="1024" data-id="26671" src="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-573x1024.jpg" alt="" class="wp-image-26671" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-573x1024.jpg 573w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-168x300.jpg 168w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-768x1371.jpg 768w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-860x1536.jpg 860w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-1147x2048.jpg 1147w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-scaled.jpg 1434w" sizes="(max-width: 573px) 100vw, 573px"><figcaption class="wp-element-caption">Observing slickenside lines in Smiley Creek Conglomerate, Bannana Canyon, ID</figcaption></figure><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="9248" height="6936" data-id="26670" src="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-1.jpg" alt="" class="wp-image-26670" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-1.jpg 9248w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-1-300x225.jpg 300w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-1-768x576.jpg 768w" sizes="(max-width: 9248px) 100vw, 9248px"><figcaption class="wp-element-caption">Using a velocimeter at Rock Creek, ID</figcaption></figure><figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="9248" height="6936" data-id="26669" src="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-2.jpg" alt="" class="wp-image-26669" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-2.jpg 9248w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-2-300x225.jpg 300w, https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-2-768x576.jpg 768w" sizes="(max-width: 9248px) 100vw, 9248px"><figcaption class="wp-element-caption">Recording attitudes of carbonates at Darlington, ID field area</figcaption></figure></figure>]]></content:encoded>
+      <enclosure url="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-573x1024.jpg" length="0" type="image/jpeg"/>
+      
+      <media:content medium="image" url="https://aegfoundation.org/wp-content/uploads/2024/01/Grant-Bradbury-3-573x1024.jpg">
+        <media:description>Main Image</media:description>
+      </media:content>
     </item>
+
     <item>
       <title>Kawner Sistrunk Field Camp – 2023 Beardsley Kuper Field Camp Scholarship Winner</title>
       <link>https://aegfoundation.org/kawner-sistrunk-field-camp-2023-beardsley-kuper-field-camp-scholarship-winner/</link>
-      <description><![CDATA[<p>During the past several weeks, I have been exploring central Idaho as a student with Idaho State University’s field camp. My experience with this field camp is entirely positive because I enjoyed the time I spent working and thinking about the rocks. The Lost River Field Station where ISU hosts t]]></description>
-      <content><![CDATA[<p>During the past several weeks, I have been exploring central Idaho as a student with Idaho State University’s field camp. My experience with this field camp is entirely positive because I enjoyed the time I spent working and thinking about the rocks. The Lost River Field Station where ISU hosts their field camp is situated near the base of the Lost River Range. While we were working, we had the field camp director, Dr. Ryan Anderson, one or two visiting professors, and three teaching assistants available to answer our questions, and we had sufficient tools to help us create our maps and other deliverables. Our deliverables for each week primarily included a geologic map, description of map units, geologic history of the area, and a cross section.</p>
+      <pubDate>Fri, 12 Jan 2024 20:35:09 GMT</pubDate>
+      <category><![CDATA[Testimonials]]></category>
+      <guid isPermaLink="false">https://aegfoundation.org/?p=26660</guid>
+      <description><![CDATA[During the past several weeks, I have been exploring central Idaho as a student with Idaho State University’s field camp. My experience with this field camp is entirely positive because I enjoyed the ]]></description>
+      <content:encoded><![CDATA[<p>During the past several weeks, I have been exploring central Idaho as a student with Idaho State University’s field camp. My experience with this field camp is entirely positive because I enjoyed the time I spent working and thinking about the rocks. The Lost River Field Station where ISU hosts their field camp is situated near the base of the Lost River Range. While we were working, we had the field camp director, Dr. Ryan Anderson, one or two visiting professors, and three teaching assistants available to answer our questions, and we had sufficient tools to help us create our maps and other deliverables. Our deliverables for each week primarily included a geologic map, description of map units, geologic history of the area, and a cross section.</p>
 
 
 
@@ -331,17 +385,25 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-6 is-layout-flex wp-block-gallery-is-layout-flex"><figure class="wp-block-image size-large is-style-rounded"><img loading="lazy" decoding="async" width="768" height="1024" data-id="26662" src="https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-768x1024.jpg" alt="" class="wp-image-26662" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-768x1024.jpg 768w, https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-225x300.jpg 225w, https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-1152x1536.jpg 1152w, https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-1536x2048.jpg 1536w, https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px"></figure><figure class="wp-block-image size-large is-style-rounded"><img loading="lazy" decoding="async" width="768" height="1024" data-id="26663" src="https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-768x1024.jpg" alt="" class="wp-image-26663" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-768x1024.jpg 768w, https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-225x300.jpg 225w, https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-1152x1536.jpg 1152w, https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-1536x2048.jpg 1536w, https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px"></figure><figure class="wp-block-image size-large is-style-rounded"><img loading="lazy" decoding="async" width="768" height="1024" data-id="26664" src="https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-768x1024.jpg" alt="" class="wp-image-26664" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-768x1024.jpg 768w, https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-225x300.jpg 225w, https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-1152x1536.jpg 1152w, https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-1536x2048.jpg 1536w, https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px"></figure></figure>]]></content>
-      <seo:title></seo:title>
-      <seo:description></seo:description>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-6 is-layout-flex wp-block-gallery-is-layout-flex"><figure class="wp-block-image size-large is-style-rounded"><img loading="lazy" decoding="async" width="768" height="1024" data-id="26662" src="https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-768x1024.jpg" alt="" class="wp-image-26662" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-768x1024.jpg 768w, https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-225x300.jpg 225w, https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-1152x1536.jpg 1152w, https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-1536x2048.jpg 1536w, https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px"></figure><figure class="wp-block-image size-large is-style-rounded"><img loading="lazy" decoding="async" width="768" height="1024" data-id="26663" src="https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-768x1024.jpg" alt="" class="wp-image-26663" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-768x1024.jpg 768w, https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-225x300.jpg 225w, https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-1152x1536.jpg 1152w, https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-1536x2048.jpg 1536w, https://aegfoundation.org/wp-content/uploads/2024/01/20230629_104730-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px"></figure><figure class="wp-block-image size-large is-style-rounded"><img loading="lazy" decoding="async" width="768" height="1024" data-id="26664" src="https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-768x1024.jpg" alt="" class="wp-image-26664" srcset="https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-768x1024.jpg 768w, https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-225x300.jpg 225w, https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-1152x1536.jpg 1152w, https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-1536x2048.jpg 1536w, https://aegfoundation.org/wp-content/uploads/2024/01/20230610_153236-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px"></figure></figure>]]></content:encoded>
+      <enclosure url="https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-768x1024.jpg" length="0" type="image/jpeg"/>
+      
+      <media:content medium="image" url="https://aegfoundation.org/wp-content/uploads/2024/01/20230630_123720-768x1024.jpg">
+        <media:description>Main Image</media:description>
+      </media:content>
     </item>
+
     <item>
       <title>Welcome!</title>
       <link>https://aegfoundation.org/welcome/</link>
-      <description><![CDATA[<p>As part of the AEG Foundation’s efforts to get the word out on how our scholarships and grants are helping students and practitioners across the country, we are creating this space for testimonials, stories, and information for all. If you would like to write about your experiences and the people]]></description>
-      <content><![CDATA[<p>As part of the AEG Foundation’s efforts to get the word out on how our scholarships and grants are helping students and practitioners across the country, we are creating this space for testimonials, stories, and information for all. If you would like to write about your experiences and the people who you’ve met through the AEG Foundation, please contact us at staff@aegfoundation.org or anyone on the Board of Directors.<br>As a quick reminder, grant applications can be submitted year round and scholarship applications are due on January 15th of each year.</p>]]></content>
-      <seo:title></seo:title>
-      <seo:description></seo:description>
+      <pubDate>Fri, 12 Jan 2024 20:23:07 GMT</pubDate>
+      <category><![CDATA[News]]></category>
+      <guid isPermaLink="false">https://aegfoundation.org/?p=26655</guid>
+      <description><![CDATA[As part of the AEG Foundation’s efforts to get the word out on how our scholarships and grants are helping students and practitioners across the country, we are creating this space for testimonials, s]]></description>
+      <content:encoded><![CDATA[<p>As part of the AEG Foundation’s efforts to get the word out on how our scholarships and grants are helping students and practitioners across the country, we are creating this space for testimonials, stories, and information for all. If you would like to write about your experiences and the people who you’ve met through the AEG Foundation, please contact us at staff@aegfoundation.org or anyone on the Board of Directors.<br>As a quick reminder, grant applications can be submitted year round and scholarship applications are due on January 15th of each year.</p>]]></content:encoded>
+      
+      
     </item>
+
   </channel>
 </rss>
