@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>XML Cleaner + Batch Split + URL Filter</title>
+  <style>
+    body { font-family: Arial; padding: 20px; max-width: 1000px; margin: auto; }
+    textarea { width: 100%; height: 200px; margin-bottom: 1em; font-family: monospace; }
+    button { padding: 10px 20px; font-size: 16px; margin: 10px 5px; cursor: pointer; }
+    .batch-container { margin-top: 30px; }
+  </style>
+</head>
+<body>
+
+<h2>Paste WordPress RSS Feed XML</h2>
+<textarea id="inputXML" placeholder="Paste your full XML feed here..."></textarea>
+
+<h3>Paste URL Block List (only URLs will be extracted)</h3>
+<textarea id="blocklist" placeholder="Paste blocklist table here (e.g. from Screaming Frog)..."></textarea>
+
+<button onclick="processXML()">Process XML</button>
+<button onclick="splitIntoBatches()">Split into Batches (Max 425 Items)</button>
+
+<h2>Cleaned Output XML (Full)</h2>
+<textarea id="outputXML" readonly></textarea>
+
+<div id="batches" class="batch-container"></div>
+
+<script>
+  let cleanedXmlDoc = null;
+
+  function extractUrlsFromBlocklist(text) {
+    const urlRegex = /(https?:\/\/[^\s]+)/g;
+    return (text.match(urlRegex) || []).map(url => url.trim());
+  }
+
+  function processXML() {
+    const input = document.getElementById("inputXML").value;
+    const blocklistInput = document.getElementById("blocklist").value;
+    const urlBlacklist = extractUrlsFromBlocklist(blocklistInput);
+
+    const parser = new DOMParser();
+    cleanedXmlDoc = parser.parseFromString(input, "application/xml");
+
+    const parseError = cleanedXmlDoc.getElementsByTagName("parsererror");
+    if (parseError.length > 0) {
+      alert("Invalid XML format. Please check your input.");
+      return;
+    }
+
+    const channel = cleanedXmlDoc.querySelector("channel");
+    const allItems = Array.from(cleanedXmlDoc.getElementsByTagName("item"));
+
+    allItems.forEach(item => {
+      const linkEl = item.querySelector("link");
+      const url = linkEl?.textContent?.trim();
+
+      if (url && urlBlacklist.includes(url)) {
+        item.remove(); // Remove blacklisted items
+        return;
+      }
+
+      const contentTag = Array.from(item.childNodes).find(node =>
+        node.nodeType === 1 && node.nodeName === 'content:encoded'
+      );
+
+      if (contentTag && contentTag.firstChild && contentTag.firstChild.nodeType === Node.CDATA_SECTION_NODE) {
+        const rawHtml = contentTag.firstChild.nodeValue;
+        const htmlDoc = new DOMParser().parseFromString(rawHtml, 'text/html');
+        const body = htmlDoc.body;
+
+        ['div', 'figure', 'figcaption'].forEach(tag => {
+          const nodes = Array.from(body.getElementsByTagName(tag));
+          nodes.forEach(el => {
+            const parent = el.parentNode;
+            while (el.firstChild) {
+              parent.insertBefore(el.firstChild, el);
+            }
+            parent.removeChild(el);
+          });
+        });
+
+        const imgs = body.getElementsByTagName('img');
+        Array.from(imgs).forEach(img => {
+          const src = img.getAttribute('src');
+          if (src) {
+            const newImg = document.createElement('img');
+            newImg.setAttribute('src', src);
+            img.parentNode.replaceChild(newImg, img);
+          } else {
+            img.remove();
+          }
+        });
+
+        contentTag.firstChild.nodeValue = body.innerHTML.trim();
+      }
+    });
+
+    const serializer = new XMLSerializer();
+    const cleanedXml = serializer.serializeToString(cleanedXmlDoc);
+    document.getElementById("outputXML").value = formatXml(cleanedXml);
+  }
+
+  function splitIntoBatches() {
+    if (!cleanedXmlDoc) {
+      alert("Please process the XML first.");
+      return;
+    }
+
+    const allItems = Array.from(cleanedXmlDoc.getElementsByTagName("item"));
+    const channel = cleanedXmlDoc.querySelector("channel");
+    const rssRoot = cleanedXmlDoc.documentElement;
+
+    const batchSize = 425;
+    const batchCount = Math.ceil(allItems.length / batchSize);
+
+    const batchesContainer = document.getElementById("batches");
+    batchesContainer.innerHTML = '';
+
+    for (let i = 0; i < batchCount; i++) {
+      const start = i * batchSize;
+      const end = Math.min(start + batchSize, allItems.length);
+      const batchItems = allItems.slice(start, end);
+
+      const doc = document.implementation.createDocument("", "", null);
+      const rss = doc.createElement("rss");
+
+      for (let attr of rssRoot.attributes) {
+        rss.setAttribute(attr.name, attr.value);
+      }
+
+      const channelClone = channel.cloneNode(true);
+      Array.from(channelClone.getElementsByTagName("item")).forEach(el => el.remove());
+
+      batchItems.forEach(item => {
+        const itemClone = item.cloneNode(true);
+        channelClone.appendChild(itemClone);
+      });
+
+      rss.appendChild(channelClone);
+      doc.appendChild(rss);
+
+      const serializer = new XMLSerializer();
+      const batchXml = serializer.serializeToString(doc);
+
+      const batchOutput = document.createElement("textarea");
+      batchOutput.readOnly = true;
+      batchOutput.style.marginTop = '10px';
+      batchOutput.value = formatXml(batchXml);
+
+      const label = document.createElement("h3");
+      label.textContent = `Batch ${i + 1} (${start + 1} – ${end})`;
+
+      batchesContainer.appendChild(label);
+      batchesContainer.appendChild(batchOutput);
+    }
+  }
+
+  function formatXml(xml) {
+    const PADDING = '  ';
+    const reg = /(>)(<)(\/*)/g;
+    let formatted = '';
+    let pad = 0;
+
+    xml = xml.replace(reg, '$1\r\n$2$3');
+    xml.split('\r\n').forEach((node) => {
+      let indent = 0;
+      if (node.match(/^<\/\w/)) pad -= 1;
+      else if (node.match(/^<\w[^>]*[^/]>/)) indent = 1;
+      formatted += PADDING.repeat(Math.max(pad, 0)) + node + '\r\n';
+      pad += indent;
+    });
+
+    return formatted.trim();
+  }
+</script>
+
+</body>
+</html>

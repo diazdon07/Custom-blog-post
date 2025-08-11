@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Month-Year Link Generator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      max-width: 800px;
+    }
+    textarea {
+      width: 100%;
+      height: 200px;
+      margin-top: 10px;
+      font-family: monospace;
+    }
+    input, button {
+      padding: 8px;
+      font-size: 16px;
+    }
+    label {
+      display: block;
+      margin-top: 20px;
+      font-weight: bold;
+    }
+    #output {
+      white-space: pre-wrap;
+      background: #f5f5f5;
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Month-Year HTML Link Generator</h1>
+
+  <label for="monthYearInput">Paste your Month Year list (one per line):</label>
+  <textarea id="monthYearInput" placeholder="August 2025&#10;July 2025&#10;..."></textarea>
+
+  <button onclick="generateMonthYearLinks()">Generate HTML</button>
+
+  <label for="output">Generated HTML:</label>
+  <textarea id="output" readonly></textarea>
+
+  <script>
+    const monthMap = {
+      january: '01',
+      february: '02',
+      march: '03',
+      april: '04',
+      may: '05',
+      june: '06',
+      july: '07',
+      august: '08',
+      september: '09',
+      october: '10',
+      november: '11',
+      december: '12'
+    };
+
+    function generateMonthYearLinks() {
+      const raw = document.getElementById('monthYearInput').value.trim();
+      const lines = raw.split('\n').filter(Boolean);
+      let output = '';
+
+      lines.forEach(line => {
+        const parts = line.trim().split(' ');
+        if (parts.length !== 2) return;
+
+        const monthName = parts[0].toLowerCase();
+        const year = parts[1];
+        const monthNum = monthMap[monthName];
+
+        if (!monthNum || isNaN(year)) return;
+
+        const slug = `/${year}/${monthNum}`;
+
+        output += `<p no_space_b="true" no_space_e="true">\n`;
+        output += `  <a href="${slug}" runtime_url="${slug}" type="page" style="display: unset;" no_space_b="true" no_space_e="true">\n`;
+        output += `   ${line.trim()}\n`;
+        output += `  </a>\n`;
+        output += `</p>\n\n`;
+      });
+
+      document.getElementById('output').value = output.trim();
+    }
+  </script>
+
+</body>
+</html>
