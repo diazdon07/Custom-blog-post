@@ -5,6 +5,7 @@
   <channel>
     <title>My DIY Blog</title>
     <link>https://yourdomain.com/</link>
+    <atom:link href="https://yourdomain.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>A personal blog built without WordPress.</description>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 May 2024 10:00:00 GMT</lastBuildDate>
@@ -12,9 +13,6 @@
     <item>
       <title>Episode Twelve: 100 Years of Pierce, Part 1: The Left Panel, with Martin Guggenheim, Angela Burton, and Josh Gupta-Kagan</title>
       <link>https://yourdomain.com/episode-twelve-100-years-of-pierce-part-1-the-left-panel-with-martin-guggenheim-angela-burton-and-josh-gupta-kagan/</link>
-       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
-          <![CDATA[Zaid]]>
-     </dc:creator>
       <category><![CDATA[News]]></category>
       <pubDate>Tue, 13 May 2025 15:39:53 +0000</pubDate>
 
@@ -62,4 +60,5 @@
     </item>
   </channel>
 </rss>
+
 
